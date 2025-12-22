@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Monody",
+  "base_artist": "TheFatRat",
+  "createdAt": "2025-12-22T12:35:09.958114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Monody (feat. Laura Brehm)",
+      "artist": "TheFatRat feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/01_Monody_(feat._Laura_Brehm)_TheFatRat_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Monody (Bimonte Remix)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/02_Monody_(Bimonte_Remix)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Monody (Radio Edit)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/03_Monody_(Radio_Edit)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Monody (feat. Laura Brehm)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/04_Monody_(feat._Laura_Brehm)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Monody - Radio Edit",
+      "artist": "TheFatRat feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/05_Monody_-_Radio_Edit_TheFatRat_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Monody (feat. Laura Brehm)",
+      "artist": "TheFatRat, Laura Brehm",
+      "has_synced": true,
+      "path": "select/06_Monody_(feat._Laura_Brehm)_TheFatRat,_Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Monody",
+      "artist": "TheFatRat, Laura Brehm",
+      "has_synced": true,
+      "path": "select/07_Monody_TheFatRat,_Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monody (feat. Laura Brehm)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/08_Monody_(feat._Laura_Brehm)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Monody (feat. Laura Brehm)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/09_Monody_(feat._Laura_Brehm)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Monody",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/10_Monody_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Monody",
+      "artist": "TheFatRat feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/11_Monody_TheFatRat_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monody",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/12_Monody_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Monody (Bimonte Remix)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/13_Monody_(Bimonte_Remix)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Monody (Radio Edit)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/14_Monody_(Radio_Edit)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Monody (Radio Edit)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/15_Monody_(Radio_Edit)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Monody (feat. Laura Brehm)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/16_Monody_(feat._Laura_Brehm)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "01_Monody_(Radio_Edit)",
+      "artist": "TheFatRat, Alexa",
+      "has_synced": true,
+      "path": "select/17_01_Monody_(Radio_Edit)_TheFatRat,_Alexa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "01_Monody_(feat._Laura_Brehm)",
+      "artist": "TheFatRat, Alexa",
+      "has_synced": true,
+      "path": "select/18_01_Monody_(feat._Laura_Brehm)_TheFatRat,_Alexa.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Monody - Bimonte Remix",
+      "artist": "TheFatRat feat. Laura Brehm & BIMONTE",
+      "has_synced": true,
+      "path": "select/19_Monody_-_Bimonte_Remix_TheFatRat_feat._Laura_Brehm_&_BIMONTE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Monody",
+      "artist": "TheFatRat",
+      "has_synced": false,
+      "path": "select/pl_01_Monody_TheFatRat.txt"
+    }
+  ]
+}
